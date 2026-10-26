@@ -1,0 +1,6 @@
+{
+  "name": "EVM Surge Blockchain Node",
+  "description": "Auto-Scaling Ethereum Mainnet Node with Strategy Pattern dApp Traffic Spike Absorbing, Real-time Mining, Exportable Wallet Keys, and AI Privacy Governor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
